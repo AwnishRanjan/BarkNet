@@ -9,7 +9,6 @@ This repository contains the source code and resources for a machine learning pr
 - [Usage](#usage)
 - [Directory Structure](#directory-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Background
 Dog breed classification is a challenging problem due to the large variety of dog breeds and the subtle differences in their appearance. This project aims to address this challenge using deep learning algorithms, particularly convolutional neural networks (CNNs). By training a CNN on a large dataset of dog images labeled with their respective breeds, we can create a model capable of accurately predicting the breed of a dog from an input image.
