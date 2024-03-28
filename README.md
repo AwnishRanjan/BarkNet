@@ -48,7 +48,7 @@ To run this project locally, follow these steps:
 
 ## Directory Structure
 - `artifacts/`: Contains trained models, serialized objects, and other artifacts generated during the project.
-- `data`: Dataset files and data preprocessing scripts can be download from Kaggle.
+- `data`: Dataset files and data preprocessing scripts has been downloaded from Kaggle.
 - `notebook/`: Jupyter notebooks for exploratory data analysis, model training, and evaluation.
 - `src/`: Source code for the project, including data preprocessing, model architecture, and prediction pipeline.
 - `README.md`: This file providing an overview of the project.
