@@ -1,0 +1,10 @@
+pandas 
+numpy 
+Flask
+numpy
+tensorflow
+matplotlib
+opencv-python
+scikit-learn
+
+-e .
